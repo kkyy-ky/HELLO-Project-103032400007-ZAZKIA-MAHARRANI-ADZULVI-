@@ -1,4 +1,4 @@
-
+// HALO INI HASIL KOMENTAR
 package main
 
 import "fmt"
